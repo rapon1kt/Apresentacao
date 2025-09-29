@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Resolucao");
+  printf("Resolucao 1.0");
   return 0;
 }
